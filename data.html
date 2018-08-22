@@ -13,11 +13,21 @@
 </head>
 
 <body>
-    <nav class="sticky">
+    <nav class="navbar navbar-default">
         <div class="container=fluid">
             <div class="navbar-header">
-                    <ul class="nav navbar-nav"> 
-                        <li><a href="./Index_HW.html"><span class="lat-button">Latitude</span></a></li>              
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                    <ul class="nav navbar-nav navbar-left"> 
+                        <a class="navbar-brand" href="./Index_HW.html">Latitude</a></li>              
+                    </ul>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Plots<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./visualization-image-1.html">Latitude vs. Max Temperature</a></li>
@@ -26,15 +36,15 @@
                                 <li><a href="./visualization-image-4.html">Latitude vs. Wind Speed</a></li>
                             </ul>
                         </li>
-                        <li><a href="./Comparisons.html">Comparison</a></li>
-                        <li><a href="#">Data</a></li>
+                        <li><a href="Comparisons.html">Comparison</a></li>
+                        <li><a href="data.html">Data</a></li>
                     </ul>
             </div>
         </div>
     </nav>
 
+    <div class="overheersend">
     <div class="container-fluid">
-        <div class="overheersend">
         <div class="row">
             <div class="col-md-12">
                 <div class="main_3">

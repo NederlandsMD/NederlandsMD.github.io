@@ -20,7 +20,7 @@
     margin-top: 90px;
     background: white;
     color: black;
-    font-family: "Times New Roman", Times, serif;  
+    font-family: "Times New Roman", Times, serif;
 }
 
 h2{
@@ -29,9 +29,9 @@ h2{
 }
 
 .main_r {
-    padding: 30px;
-    margin-left: 15px;
-    margin-right: 40px;
+    padding: 20px;
+    /* margin-left: 15px;
+    margin-right: 40px; */
     margin-bottom:40px;
     margin-top: 90px;
     background: white;
@@ -60,7 +60,7 @@ h2{
     text-decoration: none;
     font-weight: bold;
     font-size: 20px;
-    font-family: "Times New Roman", Times, serif;  
+    font-family: "Times New Roman", Times, serif;
 } */
 
 .pad {
@@ -195,6 +195,17 @@ a:link{
     border-bottom-style: solid 1px;
 }
 
+.myHead_s{
+    color:teal;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    align:left;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    border-bottom-style: solid 1px;
+}
+
 hr {
     display: block;
     height: 1px;
@@ -279,7 +290,7 @@ hr {
         text-decoration: none;
         font-weight: bold;
         font-size: 20px;
-        font-family: "Times New Roman", Times, serif;  
+        font-family: "Times New Roman", Times, serif;
     }
 
     .sticky{
@@ -292,7 +303,7 @@ hr {
     .navbar li {
         padding: 10px;
     }
-    
+
     .navbar ul {
         visibility: hidden;
     }
@@ -312,7 +323,7 @@ hr {
         background: white;
         color: teal;
         height: 3000px;
-        font-family: "Times New Roman", Times, serif;  
+        font-family: "Times New Roman", Times, serif;
     }
-  
+
  } */

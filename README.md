@@ -1,4 +1,4 @@
-# GitHub-hosted website, displaying html from "Interactive Web Dashboard" 
+# GitHub-hosted website, displaying html from "Interactive-Dashboard: Weather by Latitude" 
 
 This site can be found at: https://nederlandsmd.github.io/Index_HW.html     
 
